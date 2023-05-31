@@ -1,0 +1,19 @@
+{
+  "name": "hvdesigncli",
+  "version": "1.0.0",
+  "description": "a Vue3 UI repository cli",
+  "main": "index.js",
+  "bin": {
+    "hvvue": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cycy7373@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "download-git-repo": "^3.0.2",
+    "open": "^9.1.0"
+  }
+}
